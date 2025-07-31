@@ -1,0 +1,5 @@
+{
+"SNMessage":1,
+"SNNews":
+"‌WELCOME FROM HA9 VPN PRO\n\n\nWIFI အတွက်ရော SIM အတွက်ပါ အဆင်ပြေအောင်\nဖန်တီးပေးထားပါတယ်။\nMEC SERVER များလည်းထည့်ပေးထားပါတယ်။\n"
+}
